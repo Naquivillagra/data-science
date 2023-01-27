@@ -1,2 +1,2 @@
 # data-science
-Repository with the subjects of my data science degree
+Repository with the worked projects on my data science degree
